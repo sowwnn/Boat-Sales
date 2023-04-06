@@ -1,6 +1,8 @@
 # Boats-views-predict
 Analyze data and develop a model to predict the number of boat product views on the website 🚢
 
+**This is my case study to get my Professional Scienctist on DataCamp [here 👉](https://www.datacamp.com/certificate/DS0018937009878#)**
+
 ## Preview
 - This is a case study about predict the number of views a listing will receive based on the boat's features.
 - The dataset came from Nearly New Nautical
